@@ -16,17 +16,6 @@
       "shell": {
         "all": false,
         "open": true
-      },
-      "window": {
-        "all": false,
-        "close": true,
-        "hide": true,
-        "show": true,
-        "maximize": true,
-        "minimize": true,
-        "unmaximize": true,
-        "unminimize": true,
-        "startDragging": true
       }
     },
     "bundle": {
@@ -74,11 +63,8 @@
         "height": 600,
         "resizable": true,
         "title": "TimeWatcher",
-        "width": 800,
-        "decorations": false,
-        "transparent": true
+        "width": 800
       }
-    ],
-    "macOSPrivateApi": true
+    ]
   }
 }
